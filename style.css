@@ -1,0 +1,46 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+  
+
+header{
+    margin: 76px 63px;
+    
+}
+
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+h1{
+    font-size: 64px;
+    text-align: center;
+}
+
+.red{
+    width: 558px;
+    height: 452px;
+    background-color: red;
+    font-family: Inter;
+    font-size: 64px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.main{
+    display: flex;
+    margin: 128px 63px;
+    justify-content: space-between;
+}
+
+.footer{
+    margin: 76px 63px;
+}
